@@ -30,5 +30,6 @@ interval = 600
 format-prefix = " "
 format = <label>
 exec = python3 /path/to/geoweather.py
+exec-if = ping openweathermap.org -c 1
 format-underline = ${colors.primary}
 ```
