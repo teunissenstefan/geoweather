@@ -10,8 +10,8 @@ A simple weather module for polybar based on your the location of your current i
   - ipstack API key
 ## Usage
 1. Install python3
-2. Install poybar
-3. Get a free OpenWeatherMap API key by registering https://home.openweathermap.org/users/sign_up
+2. Install polybar
+3. Get a free OpenWeatherMap API key by registering at https://home.openweathermap.org/users/sign_up
 4. Get a free ipstack API key by registering at https://ipstack.com/product
 5. Enter your API keys into geoweather.py
 6. Add the module to your polybar bar
